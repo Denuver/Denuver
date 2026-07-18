@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>A 15-year-old developer. Programming for fun and building cool projects.</b>
+  <b>A 16-year-old developer. Programming for fun and building cool projects.</b>
 </p>
 
 <p align="center">
