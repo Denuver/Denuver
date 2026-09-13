@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/cathello.gif?raw=true" width="35%">
-  <br>Hi, I'm xlebavich 🥖
+  <br>Hi, I'm Denuver
 </h1>
 
 <p align="center">
