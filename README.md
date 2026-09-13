@@ -26,7 +26,7 @@
 
 | Platform | Link | Username |
 | :--- | :--- | :--- |
-| **Guns.lol** | <a href="https://guns.lol/xlebavich"><img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white"></a> | denuver |
+| **Guns.lol** | <a href="https://guns.lol/denuver"><img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white"></a> | denuver |
 
 
   </div>
