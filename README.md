@@ -14,14 +14,6 @@
 
 ---
 
-<details open>
-  <summary><b>🌍 Socials & Platforms</b></summary>
-  <br>
-  <div align="center">
-
-| Platform | Link | Username |
-| :--- | :--- | :--- |
-| **Guns.lol** | <a href="https://guns.lol/denuver"><img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white"></a> | denuver |
 
 
   </div>
