@@ -1,11 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/cathello.gif?raw=true" width="35%">
-  <br>Hi, I'm Denuver
 </h1>
-
-<p align="center">
-  <b>A 16-year-old developer. Programming for fun and building cool projects.</b>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
