@@ -12,8 +12,6 @@
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="70%" style="border-radius: 10px;">
 </p>
 
----
-
 
 
   </div>
